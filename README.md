@@ -1,9 +1,9 @@
 ### Hey there! I'm Ali Al-Sheikh 👋
 # 🚀 Fullstack developer | Love challenges  🚀
 
-![Image of top languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=cometbroom&theme=github_dark)
-![Image of a repo of 2048 game](https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=2048-game&theme=github_dark)
-![Image of a repo of Triodos website clone](https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=TRIODOS-clone&theme=github_dark)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cometbroom&theme=github_dark">
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=2048-game&theme=github_dark">
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=TRIODOS-clone&theme=github_dark">
 
 
 # 👨🏻‍💻 About Me
