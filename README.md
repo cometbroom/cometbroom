@@ -4,6 +4,7 @@
   <p align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cometbroom&theme=github_dark" />
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cometbroom&theme=github_dark" />
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cometbroom&repo=2048-game)](https://github.com/cometbroom/2048-Game)
     </p>
 
 <div align="left"> 
