@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Fullstack developer | Love challenges  🚀</h3>
 <div>
   <p align="center">
-    <img width = "35%" alt="PIC" height="300px" src="https://drive.google.com/uc?id=16qtYZNCyTtppLar3jtjMgtjx8P_eGL2y" />
+    <img width = "35%" alt="PIC" width="300px" src="https://drive.google.com/uc?id=16qtYZNCyTtppLar3jtjMgtjx8P_eGL2y" />
     </p>
 
 <div align="left"> 
