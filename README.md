@@ -1,4 +1,4 @@
-<div>
+<div style= "display: flex">
 <h1 align="center">Hey there! I'm Ali Al-Sheikh 👋 </h1>
 <h3 align="center">🚀 Fullstack developer | Love challenges  🚀</h3>
   <p align = "center">
