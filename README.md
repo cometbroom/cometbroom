@@ -1,4 +1,4 @@
-<div align= "center">
+<div align= "center" width="100%">
 <h1 align="center">Hey there! I'm Ali Al-Sheikh 👋 </h1>
 <h3 align="center">🚀 Fullstack developer | Love challenges  🚀</h3>
   <div align = "center" width="100%">
