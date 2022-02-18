@@ -17,7 +17,7 @@
 
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cometbroom&theme=github_dark">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=2048-game&theme=github_dark">
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=2048-game&theme=github_dark">
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=TRIODOS-clone&theme=github_dark">
 </p>
 <!--
