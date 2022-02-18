@@ -9,6 +9,8 @@
 
 <div align="left"> 
   <br/>
+  
+  
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
