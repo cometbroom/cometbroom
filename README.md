@@ -1,31 +1,25 @@
-<div align= "center" width="100%">
-<h1 align="center">Hey there! I'm Ali Al-Sheikh 👋 </h1>
-<h3 align="center">🚀 Fullstack developer | Love challenges  🚀</h3>
-  <div align = "center" width="100%">
-    <img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cometbroom&theme=github_dark" />
-    <img align="left" width="57%" src="https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=2048-game&theme=github_dark"/>
-      <img align="left" width="57%" src="https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=TRIODOS-clone&theme=github_dark"/>
-    </div> <br/>
-    </div>
-<div>
+### Hey there! I'm Ali Al-Sheikh 👋
+# 🚀 Fullstack developer | Love challenges  🚀
 
-<div align="left"> 
-  <h3> 👨🏻‍💻 About Me </h3>
+![Image of top languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=cometbroom&theme=github_dark)
+![Image of a repo of 2048 game](https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=2048-game&theme=github_dark)
+![Image of a repo of Triodos website clone](https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=TRIODOS-clone&theme=github_dark)
 
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Software Development at HackYourFuture.
-  - 💼 &nbsp; I’m currently working on small puzzle game projects. Example 2048 game: [Demo](https://cometbroom.github.io/2048-Game/src/) | [Source](https://github.com/cometbroom/2048-Game) 
-  - 🌱 &nbsp; Learning more about Animation and Browsers.
-  - ⚡ &nbsp; fun fact: Did you know that hexadecimal system was used to some degree in China even before the computers?
-</div> 
-</div>
 
-<div align="left">
-  <h3> 💻 Languages and Tools </h3>
-  <p>
-   <img src="https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/Z9tVBkl31S5WzprBJz/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-  <p>
-</div> 
+# 👨🏻‍💻 About Me
+
+  - 🤔 ; Exploring new technologies and developing software solutions and quick hacks.
+  - 🎓 ; Studying Software Development at HackYourFuture.
+  - 💼 ; I’m currently working on small puzzle game projects. Example 2048 game: [Demo](https://cometbroom.github.io/2048-Game/src/) | [Source](https://github.com/cometbroom/2048-Game) 
+  - 🌱 ; Learning more about Animation and Browsers.
+  - ⚡ ; fun fact: Did you know that hexadecimal system was used to some degree in China even before the computers?
+
+# 💻 Languages and Tools
+	![](https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif | width=50)
+		![](https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp | width=50)
+	![](https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp | width=50)
+	![](https://media.giphy.com/media/Z9tVBkl31S5WzprBJz/giphy.gif | width=50)
+	![](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif | width=50)
 
 
 <!--
