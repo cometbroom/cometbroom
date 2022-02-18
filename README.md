@@ -1,10 +1,11 @@
 <h1 align="center">Hey there! I'm Ali Al-Sheikh 👋 </h1>
 <h3 align="center">🚀 Fullstack developer | Love challenges  🚀</h3>
-<div>
-  <p align = "center" display="block">
+  <p align = "center">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cometbroom&theme=github_dark" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=2048-game&theme=github_dark"/>
     </p>
+<div>
+
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
