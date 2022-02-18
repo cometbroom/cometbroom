@@ -2,10 +2,9 @@
 <h3 align="center">🚀 Fullstack developer | Love challenges  🚀</h3>
 <div>
   <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cometbroom&theme=github_dark" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cometbroom&theme=github_dark" />
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cometbroom&repo=2048-game)](https://github.com/cometbroom/2048-Game)
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cometbroom&theme=github_dark" />
     </p>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cometbroom&repo=2048-game)](https://github.com/cometbroom/2048-Game)
 
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
