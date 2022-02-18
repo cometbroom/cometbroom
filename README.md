@@ -1,7 +1,10 @@
 <h1 align="center">Hey there! I'm Ali Al-Sheikh 👋 </h1>
 <h3 align="center">🚀 Fullstack developer | Love challenges  🚀</h3>
 <div>
-<img width = "35%" alt="PIC" height="300px" style="display:flex;justify-content:center;" src="https://drive.google.com/uc?id=16qtYZNCyTtppLar3jtjMgtjx8P_eGL2y" />
+  <p align="center">
+    <img width = "35%" alt="PIC" height="300px" src="https://drive.google.com/uc?id=16qtYZNCyTtppLar3jtjMgtjx8P_eGL2y" />
+    </p>
+
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
