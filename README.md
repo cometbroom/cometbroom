@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Ali Al-Sheikh 👋 </h1>
 <h3 align="center">🚀 Fullstack developer | A good challenge makes my day  🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://drive.google.com/uc?id=16qtYZNCyTtppLar3jtjMgtjx8P_eGL2y/" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://drive.google.com/uc?id=16qtYZNCyTtppLar3jtjMgtjx8P_eGL2y" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
@@ -16,7 +16,7 @@
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
-   <img src="https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/Z9tVBkl31S5WzprBJz/giphy.gif" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+   <img src="https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/Z9tVBkl31S5WzprBJz/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">
   <p>
 </div> 
 
