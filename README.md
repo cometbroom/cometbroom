@@ -10,7 +10,7 @@
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; Studying Software Development at HackYourFuture.
-  - 💼 &nbsp; I’m currently working on small puzzle game projects.
+  - 💼 &nbsp; I’m currently working on small puzzle game projects. Example 2048 game: [Demo](https://cometbroom.github.io/2048-Game/src/) | [Source](https://github.com/cometbroom/2048-Game) 
   - 🌱 &nbsp; Learning more about Animation and Browsers.
   - ⚡ &nbsp; fun fact: Did you know that hexadecimal system was used to some degree in China even before the computers?
 </div> 
