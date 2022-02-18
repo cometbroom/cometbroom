@@ -1,17 +1,14 @@
 <h1 align="center">Hey there! I'm Ali Al-Sheikh 👋 </h1>
 <h3 align="center">🚀 Fullstack developer | Love challenges  🚀</h3>
   <p align = "center">
-    <img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cometbroom&theme=github_dark" />
-    <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=2048-game&theme=github_dark"/>
-      <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=TRIODOS-clone&theme=github_dark"/>
+    <img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cometbroom&theme=github_dark" />
+    <img align="left" width="57%" src="https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=2048-game&theme=github_dark"/>
+      <img align="left" width="57%" src="https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=TRIODOS-clone&theme=github_dark"/>
     </p> <br/>
 <div>
 
 <div align="left"> 
-  <br/>
-  
-  
-  <h3 align= "left"> 👨🏻‍💻 About Me </h3>
+  <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; Studying Software Development at HackYourFuture.
