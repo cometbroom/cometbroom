@@ -11,7 +11,7 @@
   <br/>
   
   
-  <h3> 👨🏻‍💻 About Me </h3>
+  <h3 align= "left"> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; Studying Software Development at HackYourFuture.
