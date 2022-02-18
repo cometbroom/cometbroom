@@ -1,9 +1,9 @@
 <h1 align="center">Hey there! I'm Ali Al-Sheikh 👋 </h1>
 <h3 align="center">🚀 Fullstack developer | Love challenges  🚀</h3>
   <p align = "center">
-    <img align="left" width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cometbroom&theme=github_dark" />
-    <img align="left" width="65%" src="https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=2048-game&theme=github_dark"/>
-      <img align="left" width="65%" src="https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=TRIODOS-clone&theme=github_dark"/>
+    <img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cometbroom&theme=github_dark" />
+    <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=2048-game&theme=github_dark"/>
+      <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api/pin?username=cometbroom&repo=TRIODOS-clone&theme=github_dark"/>
     </p> <br/>
 <div>
 
