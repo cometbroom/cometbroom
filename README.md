@@ -3,11 +3,11 @@
 
 ## 👨🏻‍💻 About Me
 
-  - 🤔 ; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 ; Studying Software Development at HackYourFuture.
-  - 💼 ; I’m currently working on small puzzle game projects. Example 2048 game: [Demo](https://cometbroom.github.io/2048-Game/src/) | [Source](https://github.com/cometbroom/2048-Game) 
-  - 🌱 ; Learning more about Animation and Browsers.
-  - ⚡ ; fun fact: Did you know that hexadecimal system was used to some degree in China even before the computers?
+  - 🤔  Exploring new technologies and developing software solutions and quick hacks.
+  - 🎓  Studying Software Development at HackYourFuture.
+  - 💼  I’m currently working on small puzzle game projects. Example 2048 game: [Demo](https://cometbroom.github.io/2048-Game/src/) | [Source](https://github.com/cometbroom/2048-Game) 
+  - 🌱  Learning more about Animation and Browsers.
+  - ⚡  fun fact: Did you know that hexadecimal system was used to some degree in China even before the computers?
 
 ## 💻 Languages and Tools
    <img src="https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/Z9tVBkl31S5WzprBJz/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
