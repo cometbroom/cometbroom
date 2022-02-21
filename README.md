@@ -1,7 +1,8 @@
 # Hey there! I'm Ali Al-Sheikh 👋
 ### 🚀 Fullstack developer | Love challenges  🚀
 
-## 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me  
+Full stack developer with a deep-rooted interest in computers. I truly enjoy creating solution and optimizing them.  
 
     🤔  Exploring new technologies and developing software solutions and quick hacks.
     🎓  Studying Software Development at HackYourFuture.
