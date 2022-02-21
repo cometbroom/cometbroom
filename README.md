@@ -5,7 +5,7 @@
 
     🤔  Exploring new technologies and developing software solutions and quick hacks.
     🎓  Studying Software Development at HackYourFuture.
-    💼  I’m currently working on small puzzle game projects. Example 2048 game: [Demo](https://cometbroom.github.io/2048-Game/src/) | [Source](https://github.com/cometbroom/2048-Game) 
+    💼  I’m currently working on small puzzle game projects.
     🌱  Learning more about Animation and Browsers.
     ⚡  fun fact: Did you know that hexadecimal system was used to some degree in China even before the computers?
 
