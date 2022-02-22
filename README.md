@@ -1,5 +1,5 @@
 # Hey there! I'm Ali Al-Sheikh 👋
-### 🚀 Fullstack developer | Love challenges  🚀
+### 🚀 Fullstack developer
 
 ## 👨🏻‍💻 About Me  
 Full-stack developer with a deep-rooted interest in computers. I truly enjoy creating solution and optimizing them.  
