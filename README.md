@@ -6,8 +6,7 @@ Full-stack developer with a deep-rooted interest in computers. I truly enjoy cre
 
     🤔  Exploring new technologies and developing software solutions and quick hacks.
     🎓  Studying Software Development at HackYourFuture.
-    💼  I’m currently working on small puzzle game projects.
-    🌱  Learning more about Animation and Browsers.
+    🌱  Learning more about databases.
     ⚡  fun fact: Did you know that hexadecimal system was used to some degree in China even before the computers?
 
 ## 💻 Languages and Tools
