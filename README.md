@@ -2,7 +2,7 @@
 ### 🚀 Fullstack developer
 
 ## 👨🏻‍💻 About Me  
-Full-stack developer with a deep-rooted interest in computers. I truly enjoy creating solution and optimizing them.  
+Full-stack developer.  
 
     🤔  Exploring new technologies and developing software solutions and quick hacks.
     🎓  Studying Software Development at HackYourFuture.
