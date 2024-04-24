@@ -7,9 +7,6 @@
     🌱  Learning more about advanced java feature.
     ⚡  fun fact: Did you know that hexadecimal system was used to some degree in China even before the computers?
 
-## 💻 Languages and Tools
-   <img src="https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/Z9tVBkl31S5WzprBJz/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-======
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cometbroom&theme=github_dark">
 </p>
 <!--
