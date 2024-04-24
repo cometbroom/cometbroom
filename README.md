@@ -1,12 +1,10 @@
 # Hey there! I'm Ali Al-Sheikh 👋
-### 🚀 Fullstack developer
+### 🚀 Java Backend Developer
 
 ## 👨🏻‍💻 About Me  
-Full-stack developer.  
 
     🤔  Exploring new technologies and developing software solutions and quick hacks.
-    🎓  Studying Software Development at HackYourFuture.
-    🌱  Learning more about databases.
+    🌱  Learning more about advanced java feature.
     ⚡  fun fact: Did you know that hexadecimal system was used to some degree in China even before the computers?
 
 ## 💻 Languages and Tools
