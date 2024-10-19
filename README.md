@@ -4,7 +4,7 @@
 ## 👨🏻‍💻 About Me  
 
     🤔  Exploring new technologies and developing software solutions and quick hacks.
-    🌱  Learning more about advanced java feature.
+    🌱  Learning more about Digital Signal Processing (DSP).
     ⚡  fun fact: Did you know that hexadecimal system was used to some degree in China even before the computers?
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cometbroom&theme=github_dark">
